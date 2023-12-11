@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "149226399303",
+    "project_id": "roverreach-d39c1",
+    "storage_bucket": "roverreach-d39c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149226399303:android:0af2370479778dcf75b362",
+        "android_client_info": {
+          "package_name": "com.mycompany.roverreach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149226399303-olobl5qk1t47sr9krol2m8sdm32crgiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.roverreach",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "149226399303-tn7gkht87o1qp1b41o876d5ts0qebkdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArxS3EGx6vMJkYyGtqznvCNy_VikREc00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149226399303-tn7gkht87o1qp1b41o876d5ts0qebkdu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149226399303-1ab6bh1cre3u52egetqb70j42mpoajlo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.roverreach"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

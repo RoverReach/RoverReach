@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>149226399303-1ab6bh1cre3u52egetqb70j42mpoajlo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.149226399303-1ab6bh1cre3u52egetqb70j42mpoajlo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>149226399303-olobl5qk1t47sr9krol2m8sdm32crgiu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5lz1m-riVJErMvIufvGWT0CoIY9mpDgY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>149226399303</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.roverreach</string>
+	<key>PROJECT_ID</key>
+	<string>roverreach-d39c1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>roverreach-d39c1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:149226399303:ios:83514fb61eee81ed75b362</string>
+</dict>
+</plist>
